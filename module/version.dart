@@ -6,7 +6,7 @@ import '../utils/color.dart';
 
 class Version implements Command {
     static const String name = 'Oliner';
-    static const String version = "v0.1.16092026";
+    static const String version = "v0.1.04102026";
     static const String creator = 'Zeronetsec';
     static const String homepage = 'https://github.com/Zeronetsec/Oliner';
 

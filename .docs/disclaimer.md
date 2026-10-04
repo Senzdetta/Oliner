@@ -1,5 +1,3 @@
-<!-- https://github.com/Zeronetsec/Oliner -->
-
 # DISCLAIMER
 ## **Version 0.1 (Experimental Status)**
 This tool is currently in its early **v0.1** stage and is considered **unstable**. </br>
@@ -15,5 +13,3 @@ Read also: [.docs/why.md](why.md).
 
 - This tool is in early development, highly unstable, and built **just for fun**. </br>
   If you cannot accept broken code or security risks, please do not use it.
-
-<!-- Copyright (c) 2026 Zeronetsec -->
