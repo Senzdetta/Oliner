@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Oliner
+// https://github.com/Senzdetta/Oliner
 
 import 'dart:io';
 
@@ -9,4 +9,4 @@ class Path {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

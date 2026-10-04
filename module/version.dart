@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Oliner
+// https://github.com/Senzdetta/Oliner
 
 import 'dart:io';
 import '../console/command_interface.dart';
@@ -7,8 +7,8 @@ import '../utils/color.dart';
 class Version implements Command {
     static const String name = 'Oliner';
     static const String version = "v0.1.04102026";
-    static const String creator = 'Zeronetsec';
-    static const String homepage = 'https://github.com/Zeronetsec/Oliner';
+    static const String creator = 'Senzdetta';
+    static const String homepage = 'https://github.com/Senzdetta/Oliner';
 
     @override void execute(List<String> args) {
         print("${color_N}Name: ${color_GG}${name}${color_N}");
@@ -18,4 +18,4 @@ class Version implements Command {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Oliner
+// https://github.com/Senzdetta/Oliner
 
 import 'dart:io';
 import 'color.dart';
@@ -12,4 +12,4 @@ void NoTraversal(String inputPath) {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

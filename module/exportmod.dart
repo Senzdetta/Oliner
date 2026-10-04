@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Oliner
+// https://github.com/Senzdetta/Oliner
 
 export 'version.dart';
 export 'help.dart';
@@ -20,4 +20,4 @@ export 'copy.dart';
 export 'mvkey.dart';
 export 'cpkey.dart';
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

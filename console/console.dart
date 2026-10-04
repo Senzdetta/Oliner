@@ -1,4 +1,4 @@
-// https://github.com/Zeronetsec/Oliner
+// https://github.com/Senzdetta/Oliner
 
 import 'dart:io';
 import 'command_interface.dart';
@@ -43,4 +43,4 @@ void Console(List<String> args) {
     }
 }
 
-// Copyright (c) 2026 Zeronetsec
+// Copyright (c) 2026 Senzdetta

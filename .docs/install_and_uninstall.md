@@ -7,7 +7,7 @@
 
 ### Usage
 ```bash
-git clone https://github.com/Zeronetsec/Oliner
+git clone https://github.com/Senzdetta/Oliner
 bash Oliner/install.sh <option>
 ```
 

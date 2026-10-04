@@ -24,14 +24,14 @@ The author is not responsible for any damage, data loss, or issues that may resu
 ## Installation
 Quick install:
 ```bash
-git clone https://github.com/Zeronetsec/Oliner
+git clone https://github.com/Senzdetta/Oliner
 bash Oliner/install.sh
 ```
 For more detailed installation and uninstallation instructions, see [.docs/install_and_uninstall.md](.docs/install_and_uninstall.md).
 
 ## Usage Example
 ```bash
-oliner --add myoneliner/code "GitHub: link(https://github.com/Zeronetsec).msg(my github profile)"
+oliner --add myoneliner/code "GitHub: link(https://github.com/Senzdetta).msg(my github profile)"
 oliner --copy myoneliner/code GitHub --with 'xclip -selection clipboard <<< {}'
 oliner --search GitHub
 oliner --export myoneliner --out backup.zip
