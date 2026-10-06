@@ -7,13 +7,13 @@ import '../utils/color.dart';
 class Version implements Command {
     static const String name = 'Oliner';
     static const String version = "v0.1.06102026";
-    static const String creator = 'Senzdetta';
+    static const String developer = 'Senzdetta';
     static const String homepage = 'https://github.com/Senzdetta/Oliner';
 
     @override void execute(List<String> args) {
-        print("${color_N}Name: ${color_GG}${name}${color_N}");
+        print("${color_DG}- ${color_GG}${name} ${color_DG}-${color_N}");
         print("${color_N}Version: ${color_GG}${version}${color_N}");
-        print("${color_N}Creator: ${color_GG}${creator}${color_N}");
+        print("${color_N}Developer: ${color_GG}${developer}${color_N}");
         print("${color_N}Homepage: ${color_GG}${homepage}${color_N}");
     }
 }
