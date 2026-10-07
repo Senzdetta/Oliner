@@ -15,6 +15,8 @@ class Uwu implements Command {
             "(=^･ω･^=)",
         ];
 
+        const String fixface = "(・ω・)";
+
         const double delayInSeconds = 0.2;
         const int durationInSeconds = 5;
 
@@ -37,8 +39,7 @@ class Uwu implements Command {
         }
 
         stopwatch.stop();
-        stdout.write("\x1b[?25h");
-        print("");
+        stdout.write("\r${fixface}\x1b[K\x1b[?25h\n");
     }
 }
 
